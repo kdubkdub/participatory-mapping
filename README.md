@@ -27,7 +27,7 @@ URL to visit [Small Business Participatory Map](https://kdubkdub.github.io/parti
 # Screenshots to illustrate the Project's function
 <img width="1439" alt="截屏2024-03-08 下午1 54 59" src="https://github.com/kdubkdub/participatory-mapping/assets/129431505/2867e239-ed5d-412a-b792-568c7b2a1154">
 <img width="1440" alt="截屏2024-03-08 下午1 57 56" src="https://github.com/kdubkdub/participatory-mapping/assets/129431505/22f6ea3a-7cfa-4fb0-88e6-6b74f894df8b">
-![Funtion of Add Comment](https://raw.githubusercontent.com/kdubkdub/participatory-mapping/main/img/test.png)
+<img width="1440" alt="截屏2024-03-08 下午2 00 38" src="https://github.com/kdubkdub/participatory-mapping/assets/129431505/0ecaeffc-e445-4ec1-a899-1f39c39109da">
 
 - Users can click to place a marker and write their suggestions in a pop-up box
 - Users can hover over a marker to view what other users have written
