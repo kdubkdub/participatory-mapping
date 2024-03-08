@@ -3,9 +3,9 @@
 Group AA5 | Department of Geography |  University of Washington
 
 # URL to Visit the Project:
-The url to webmap [Small Business Participatory Map](https://participatory-mapping-project-5eb27b07b1d4.herokuapp.com/)
+URL to map hosted on Heroku [Small Business Participatory Map](https://participatory-mapping-project-5eb27b07b1d4.herokuapp.com/)
 
-URL to visit [Small Business Participatory Map](https://kdubkdub.github.io/participatory-mapping/)
+URL to map hosted on GitHub [Small Business Participatory Map](https://kdubkdub.github.io/participatory-mapping/)
 
 
 # Project description 
