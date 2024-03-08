@@ -1,6 +1,7 @@
 # Small Business Participatory Mapping Project
 
 Group AA5 | Department of Geography |  University of Washington
+
 Leo Zhang, Kaid’dub Pavel, Wenjing Huang, Mason Howes, Anthony Kim
 
 # URL to Visit the Project:
