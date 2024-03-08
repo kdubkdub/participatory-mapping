@@ -26,6 +26,14 @@ URL to visit [Small Business Participatory Map](https://kdubkdub.github.io/parti
 
 # Screenshots to illustrate the Project's function
 ![Funtion of Add Comment](https://raw.githubusercontent.com/kdubkdub/participatory-mapping/main/img/test.png)
+- Users can click to place a marker and write their suggestions in a pop-up box
+- Users can hover over a marker to view what other users have written
+- Incorporate a system for users to suggest improvements or report issues with the map.
+
+# Target Audience
+- Individuals who are traveling to Seattle or food enthusiasts who enjoy local flavors.
+- Visual map-makers who are aspiring to create their own PGIS maps.
+- Small business owners in Seattle who want to increase their visibility and attract more customers.
 
 # Applied libraries and Web Services
 - Mapbox
