@@ -25,7 +25,10 @@ URL to visit [Small Business Participatory Map](https://kdubkdub.github.io/parti
 - Impact: Unintended prejudices: User-generated evaluations run the danger of inadvertent prejudice, which could have a disproportionately negative effect on some firms. In order to reduce premature content exposures, we will attempt to use moderation procedures to weed out any offensive or prejudiced content. Promote varied involvement to guarantee a wide variety of viewpoints. Lastly, ​​we will be highlighting a preferable method in how we choose our leisure activities at the same time reducing the carbon footprint of the area due to shorter supply chains.
 
 # Screenshots to illustrate the Project's function
+<img width="1439" alt="截屏2024-03-08 下午1 54 59" src="https://github.com/kdubkdub/participatory-mapping/assets/129431505/2867e239-ed5d-412a-b792-568c7b2a1154">
+<img width="1440" alt="截屏2024-03-08 下午1 57 56" src="https://github.com/kdubkdub/participatory-mapping/assets/129431505/22f6ea3a-7cfa-4fb0-88e6-6b74f894df8b">
 ![Funtion of Add Comment](https://raw.githubusercontent.com/kdubkdub/participatory-mapping/main/img/test.png)
+
 - Users can click to place a marker and write their suggestions in a pop-up box
 - Users can hover over a marker to view what other users have written
 - Incorporate a system for users to suggest improvements or report issues with the map.
